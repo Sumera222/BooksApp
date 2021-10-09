@@ -20,8 +20,4 @@
 OR
 - open live server version of index.html in your browser.
 
-## Repo Link:
-https://github.com/shairyar500/Books-App.git
 
-## Live Link: 
-https://shairyar500.github.io/Books-App/
