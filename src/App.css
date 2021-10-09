@@ -1,0 +1,27 @@
+*{
+  background-color:  lightgoldenrodyellow;
+  color:rgb(38, 15, 43);
+}
+
+.App {
+  text-align: center;
+}
+
+.logoDiv{
+  background-size: cover; 
+  background-position: top center; 
+}
+.cardBody{
+  background-color: rebeccapurple;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.btn{
+background-color: olive;
+color: rgb(92, 13, 13);
+font-weight: bolder;
+}
+.btn:hover{
+  background-color: #3980bb;
+}
